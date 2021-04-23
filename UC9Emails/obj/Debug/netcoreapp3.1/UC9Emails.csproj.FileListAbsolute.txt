@@ -1,0 +1,12 @@
+C:\Users\soham\source\repos\UserRegisPrblm\UC9Emails\bin\Debug\netcoreapp3.1\UC9Emails.exe
+C:\Users\soham\source\repos\UserRegisPrblm\UC9Emails\bin\Debug\netcoreapp3.1\UC9Emails.deps.json
+C:\Users\soham\source\repos\UserRegisPrblm\UC9Emails\bin\Debug\netcoreapp3.1\UC9Emails.runtimeconfig.json
+C:\Users\soham\source\repos\UserRegisPrblm\UC9Emails\bin\Debug\netcoreapp3.1\UC9Emails.runtimeconfig.dev.json
+C:\Users\soham\source\repos\UserRegisPrblm\UC9Emails\bin\Debug\netcoreapp3.1\UC9Emails.dll
+C:\Users\soham\source\repos\UserRegisPrblm\UC9Emails\bin\Debug\netcoreapp3.1\UC9Emails.pdb
+C:\Users\soham\source\repos\UserRegisPrblm\UC9Emails\obj\Debug\netcoreapp3.1\UC9Emails.AssemblyInfoInputs.cache
+C:\Users\soham\source\repos\UserRegisPrblm\UC9Emails\obj\Debug\netcoreapp3.1\UC9Emails.AssemblyInfo.cs
+C:\Users\soham\source\repos\UserRegisPrblm\UC9Emails\obj\Debug\netcoreapp3.1\UC9Emails.csproj.CoreCompileInputs.cache
+C:\Users\soham\source\repos\UserRegisPrblm\UC9Emails\obj\Debug\netcoreapp3.1\UC9Emails.dll
+C:\Users\soham\source\repos\UserRegisPrblm\UC9Emails\obj\Debug\netcoreapp3.1\UC9Emails.pdb
+C:\Users\soham\source\repos\UserRegisPrblm\UC9Emails\obj\Debug\netcoreapp3.1\UC9Emails.genruntimeconfig.cache

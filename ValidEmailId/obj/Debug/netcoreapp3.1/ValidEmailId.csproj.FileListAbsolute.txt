@@ -1,0 +1,13 @@
+C:\Users\soham\source\repos\UserRegisPrblm\ValidEmailId\bin\Debug\netcoreapp3.1\ValidEmailId.exe
+C:\Users\soham\source\repos\UserRegisPrblm\ValidEmailId\bin\Debug\netcoreapp3.1\ValidEmailId.deps.json
+C:\Users\soham\source\repos\UserRegisPrblm\ValidEmailId\bin\Debug\netcoreapp3.1\ValidEmailId.runtimeconfig.json
+C:\Users\soham\source\repos\UserRegisPrblm\ValidEmailId\bin\Debug\netcoreapp3.1\ValidEmailId.runtimeconfig.dev.json
+C:\Users\soham\source\repos\UserRegisPrblm\ValidEmailId\bin\Debug\netcoreapp3.1\ValidEmailId.dll
+C:\Users\soham\source\repos\UserRegisPrblm\ValidEmailId\bin\Debug\netcoreapp3.1\ValidEmailId.pdb
+C:\Users\soham\source\repos\UserRegisPrblm\ValidEmailId\obj\Debug\netcoreapp3.1\ValidEmailId.csprojAssemblyReference.cache
+C:\Users\soham\source\repos\UserRegisPrblm\ValidEmailId\obj\Debug\netcoreapp3.1\ValidEmailId.AssemblyInfoInputs.cache
+C:\Users\soham\source\repos\UserRegisPrblm\ValidEmailId\obj\Debug\netcoreapp3.1\ValidEmailId.AssemblyInfo.cs
+C:\Users\soham\source\repos\UserRegisPrblm\ValidEmailId\obj\Debug\netcoreapp3.1\ValidEmailId.csproj.CoreCompileInputs.cache
+C:\Users\soham\source\repos\UserRegisPrblm\ValidEmailId\obj\Debug\netcoreapp3.1\ValidEmailId.dll
+C:\Users\soham\source\repos\UserRegisPrblm\ValidEmailId\obj\Debug\netcoreapp3.1\ValidEmailId.pdb
+C:\Users\soham\source\repos\UserRegisPrblm\ValidEmailId\obj\Debug\netcoreapp3.1\ValidEmailId.genruntimeconfig.cache

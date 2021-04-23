@@ -1,0 +1,12 @@
+C:\Users\soham\source\repos\UserRegisPrblm\ValidPhoneNum\bin\Debug\netcoreapp3.1\ValidPhoneNum.exe
+C:\Users\soham\source\repos\UserRegisPrblm\ValidPhoneNum\bin\Debug\netcoreapp3.1\ValidPhoneNum.deps.json
+C:\Users\soham\source\repos\UserRegisPrblm\ValidPhoneNum\bin\Debug\netcoreapp3.1\ValidPhoneNum.runtimeconfig.json
+C:\Users\soham\source\repos\UserRegisPrblm\ValidPhoneNum\bin\Debug\netcoreapp3.1\ValidPhoneNum.runtimeconfig.dev.json
+C:\Users\soham\source\repos\UserRegisPrblm\ValidPhoneNum\bin\Debug\netcoreapp3.1\ValidPhoneNum.dll
+C:\Users\soham\source\repos\UserRegisPrblm\ValidPhoneNum\bin\Debug\netcoreapp3.1\ValidPhoneNum.pdb
+C:\Users\soham\source\repos\UserRegisPrblm\ValidPhoneNum\obj\Debug\netcoreapp3.1\ValidPhoneNum.AssemblyInfoInputs.cache
+C:\Users\soham\source\repos\UserRegisPrblm\ValidPhoneNum\obj\Debug\netcoreapp3.1\ValidPhoneNum.AssemblyInfo.cs
+C:\Users\soham\source\repos\UserRegisPrblm\ValidPhoneNum\obj\Debug\netcoreapp3.1\ValidPhoneNum.csproj.CoreCompileInputs.cache
+C:\Users\soham\source\repos\UserRegisPrblm\ValidPhoneNum\obj\Debug\netcoreapp3.1\ValidPhoneNum.dll
+C:\Users\soham\source\repos\UserRegisPrblm\ValidPhoneNum\obj\Debug\netcoreapp3.1\ValidPhoneNum.pdb
+C:\Users\soham\source\repos\UserRegisPrblm\ValidPhoneNum\obj\Debug\netcoreapp3.1\ValidPhoneNum.genruntimeconfig.cache

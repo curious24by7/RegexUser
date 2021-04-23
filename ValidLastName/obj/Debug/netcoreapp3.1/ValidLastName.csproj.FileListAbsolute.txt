@@ -1,0 +1,13 @@
+C:\Users\soham\source\repos\UserRegisPrblm\ValidLastName\bin\Debug\netcoreapp3.1\ValidLastName.exe
+C:\Users\soham\source\repos\UserRegisPrblm\ValidLastName\bin\Debug\netcoreapp3.1\ValidLastName.deps.json
+C:\Users\soham\source\repos\UserRegisPrblm\ValidLastName\bin\Debug\netcoreapp3.1\ValidLastName.runtimeconfig.json
+C:\Users\soham\source\repos\UserRegisPrblm\ValidLastName\bin\Debug\netcoreapp3.1\ValidLastName.runtimeconfig.dev.json
+C:\Users\soham\source\repos\UserRegisPrblm\ValidLastName\bin\Debug\netcoreapp3.1\ValidLastName.dll
+C:\Users\soham\source\repos\UserRegisPrblm\ValidLastName\bin\Debug\netcoreapp3.1\ValidLastName.pdb
+C:\Users\soham\source\repos\UserRegisPrblm\ValidLastName\obj\Debug\netcoreapp3.1\ValidLastName.csprojAssemblyReference.cache
+C:\Users\soham\source\repos\UserRegisPrblm\ValidLastName\obj\Debug\netcoreapp3.1\ValidLastName.AssemblyInfoInputs.cache
+C:\Users\soham\source\repos\UserRegisPrblm\ValidLastName\obj\Debug\netcoreapp3.1\ValidLastName.AssemblyInfo.cs
+C:\Users\soham\source\repos\UserRegisPrblm\ValidLastName\obj\Debug\netcoreapp3.1\ValidLastName.csproj.CoreCompileInputs.cache
+C:\Users\soham\source\repos\UserRegisPrblm\ValidLastName\obj\Debug\netcoreapp3.1\ValidLastName.dll
+C:\Users\soham\source\repos\UserRegisPrblm\ValidLastName\obj\Debug\netcoreapp3.1\ValidLastName.pdb
+C:\Users\soham\source\repos\UserRegisPrblm\ValidLastName\obj\Debug\netcoreapp3.1\ValidLastName.genruntimeconfig.cache

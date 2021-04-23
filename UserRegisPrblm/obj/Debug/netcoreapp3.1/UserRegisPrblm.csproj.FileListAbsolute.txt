@@ -1,0 +1,13 @@
+C:\Users\soham\source\repos\UserRegisPrblm\UserRegisPrblm\bin\Debug\netcoreapp3.1\UserRegisPrblm.exe
+C:\Users\soham\source\repos\UserRegisPrblm\UserRegisPrblm\bin\Debug\netcoreapp3.1\UserRegisPrblm.deps.json
+C:\Users\soham\source\repos\UserRegisPrblm\UserRegisPrblm\bin\Debug\netcoreapp3.1\UserRegisPrblm.runtimeconfig.json
+C:\Users\soham\source\repos\UserRegisPrblm\UserRegisPrblm\bin\Debug\netcoreapp3.1\UserRegisPrblm.runtimeconfig.dev.json
+C:\Users\soham\source\repos\UserRegisPrblm\UserRegisPrblm\bin\Debug\netcoreapp3.1\UserRegisPrblm.dll
+C:\Users\soham\source\repos\UserRegisPrblm\UserRegisPrblm\bin\Debug\netcoreapp3.1\UserRegisPrblm.pdb
+C:\Users\soham\source\repos\UserRegisPrblm\UserRegisPrblm\obj\Debug\netcoreapp3.1\UserRegisPrblm.csprojAssemblyReference.cache
+C:\Users\soham\source\repos\UserRegisPrblm\UserRegisPrblm\obj\Debug\netcoreapp3.1\UserRegisPrblm.AssemblyInfoInputs.cache
+C:\Users\soham\source\repos\UserRegisPrblm\UserRegisPrblm\obj\Debug\netcoreapp3.1\UserRegisPrblm.AssemblyInfo.cs
+C:\Users\soham\source\repos\UserRegisPrblm\UserRegisPrblm\obj\Debug\netcoreapp3.1\UserRegisPrblm.csproj.CoreCompileInputs.cache
+C:\Users\soham\source\repos\UserRegisPrblm\UserRegisPrblm\obj\Debug\netcoreapp3.1\UserRegisPrblm.dll
+C:\Users\soham\source\repos\UserRegisPrblm\UserRegisPrblm\obj\Debug\netcoreapp3.1\UserRegisPrblm.pdb
+C:\Users\soham\source\repos\UserRegisPrblm\UserRegisPrblm\obj\Debug\netcoreapp3.1\UserRegisPrblm.genruntimeconfig.cache
