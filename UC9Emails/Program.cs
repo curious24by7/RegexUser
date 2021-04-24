@@ -11,6 +11,18 @@ namespace UC9Emails
             Console.WriteLine("Enter Email Id :");
             bool result = input.validateEmail(Console.ReadLine());
             Console.WriteLine(result);
+
+            while (result != true)
+            {
+                Console.WriteLine("Enter Email Id :");
+
+                RegexPattern secondinput = new RegexPattern();
+
+                bool scndresult = secondinput.validateEmail(Console.ReadLine());
+                Console.WriteLine(scndresult);
+
+            }
+
             Console.ReadKey();
 
         }

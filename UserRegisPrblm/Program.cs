@@ -11,6 +11,17 @@ namespace UserRegisPrblm
             Console.WriteLine("Enter First Name :");
             bool result = input.validateName(Console.ReadLine());
             Console.WriteLine(result);
+
+            while (result != true)
+            {
+                Console.WriteLine("Enter Firt Name :");
+
+                FirstNamePattern secondinput = new FirstNamePattern();
+
+                bool scndresult = secondinput.validateName(Console.ReadLine());
+                Console.WriteLine(scndresult);
+
+            }
             Console.ReadKey();
         }
     }
