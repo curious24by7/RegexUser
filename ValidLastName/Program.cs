@@ -21,6 +21,10 @@ namespace ValidLastName
                 bool scndresult = secondinput.validateName(Console.ReadLine());
                 Console.WriteLine(scndresult);
 
+                if (scndresult == true)
+
+                    break;
+
             }
             Console.ReadKey();
         }

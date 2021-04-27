@@ -21,6 +21,10 @@ namespace ValidPhoneNum
                 bool scndresult = secondinput.validatePhoneNumber(Console.ReadLine());
                 Console.WriteLine(scndresult);
 
+                if (scndresult == true)
+
+                    break;
+
             }
             Console.ReadKey();
         }

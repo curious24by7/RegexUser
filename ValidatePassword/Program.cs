@@ -21,6 +21,10 @@ namespace ValidatePassword
                 bool scndresult = secondinput.validatePassword(Console.ReadLine());
                 Console.WriteLine(scndresult);
 
+                if (scndresult == true)
+
+                    break;
+
             }
             Console.ReadKey();
         }
