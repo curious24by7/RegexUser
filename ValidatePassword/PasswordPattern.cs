@@ -7,7 +7,7 @@ namespace ValidatePassword
 {
     class PasswordPattern
     {
-        string RegexPass = "^([a-z]+[A-Z]+[0-9]+[!@#$%^&*]{1}){8,}$";
+        string RegexPass = ".([a-z]+[A-Z]+[0-9]+[!@#$%^&*]{1}){8,}";
 
         public bool validatePassword(string pass)
         {

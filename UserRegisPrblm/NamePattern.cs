@@ -7,8 +7,7 @@ namespace UserRegisPrblm
 {
     class FirstNamePattern
     {
-        string regexName = "^[A-Z]{1}[a-z]{2,}$";
-
+        string regexName = "^[A-Z]{1}[a-z]{3,}$";
         public bool validateName(string firstname)
         {
             return Regex.IsMatch(firstname, regexName);

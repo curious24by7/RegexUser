@@ -1,0 +1,13 @@
+C:\Users\soham\source\repos\UserRegisPrblm\UserRegisPrblm\bin\Debug\netcoreapp3.1\ValidFirstName.exe
+C:\Users\soham\source\repos\UserRegisPrblm\UserRegisPrblm\bin\Debug\netcoreapp3.1\ValidFirstName.deps.json
+C:\Users\soham\source\repos\UserRegisPrblm\UserRegisPrblm\bin\Debug\netcoreapp3.1\ValidFirstName.runtimeconfig.json
+C:\Users\soham\source\repos\UserRegisPrblm\UserRegisPrblm\bin\Debug\netcoreapp3.1\ValidFirstName.runtimeconfig.dev.json
+C:\Users\soham\source\repos\UserRegisPrblm\UserRegisPrblm\bin\Debug\netcoreapp3.1\ValidFirstName.dll
+C:\Users\soham\source\repos\UserRegisPrblm\UserRegisPrblm\bin\Debug\netcoreapp3.1\ValidFirstName.pdb
+C:\Users\soham\source\repos\UserRegisPrblm\UserRegisPrblm\obj\Debug\netcoreapp3.1\ValidFirstName.csprojAssemblyReference.cache
+C:\Users\soham\source\repos\UserRegisPrblm\UserRegisPrblm\obj\Debug\netcoreapp3.1\ValidFirstName.AssemblyInfoInputs.cache
+C:\Users\soham\source\repos\UserRegisPrblm\UserRegisPrblm\obj\Debug\netcoreapp3.1\ValidFirstName.AssemblyInfo.cs
+C:\Users\soham\source\repos\UserRegisPrblm\UserRegisPrblm\obj\Debug\netcoreapp3.1\ValidFirstName.csproj.CoreCompileInputs.cache
+C:\Users\soham\source\repos\UserRegisPrblm\UserRegisPrblm\obj\Debug\netcoreapp3.1\ValidFirstName.dll
+C:\Users\soham\source\repos\UserRegisPrblm\UserRegisPrblm\obj\Debug\netcoreapp3.1\ValidFirstName.pdb
+C:\Users\soham\source\repos\UserRegisPrblm\UserRegisPrblm\obj\Debug\netcoreapp3.1\ValidFirstName.genruntimeconfig.cache
