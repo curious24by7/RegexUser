@@ -3,17 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31205.134
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValidFirstName", "UserRegisPrblm\ValidFirstName.csproj", "{58A18360-7382-4913-8A45-9EDCCD72D69E}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValidLastName", "ValidLastName\ValidLastName.csproj", "{AD5C6A54-425C-4AF7-9A05-4D850799BF37}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValidEmailId", "ValidEmailId\ValidEmailId.csproj", "{A8BDEB85-6502-4A83-A1E6-7453258BAA5E}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValidPhoneNum", "ValidPhoneNum\ValidPhoneNum.csproj", "{37696EB3-5E71-4C9E-8D29-0E9911715A1A}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValidPassword", "ValidatePassword\ValidPassword.csproj", "{A7448A8F-D163-4C19-8D3E-4D326E44713C}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UC9Emails", "UC9Emails\UC9Emails.csproj", "{BC5F639F-E8B1-4FDF-B97F-19E0EDABDE3C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UserRegexProblem", "UserRegexProblem\UserRegexProblem.csproj", "{214E175B-ADFC-48FF-9FBB-AD9EF45F93FB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,30 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{58A18360-7382-4913-8A45-9EDCCD72D69E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{58A18360-7382-4913-8A45-9EDCCD72D69E}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{58A18360-7382-4913-8A45-9EDCCD72D69E}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{58A18360-7382-4913-8A45-9EDCCD72D69E}.Release|Any CPU.Build.0 = Release|Any CPU
-		{AD5C6A54-425C-4AF7-9A05-4D850799BF37}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{AD5C6A54-425C-4AF7-9A05-4D850799BF37}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{AD5C6A54-425C-4AF7-9A05-4D850799BF37}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{AD5C6A54-425C-4AF7-9A05-4D850799BF37}.Release|Any CPU.Build.0 = Release|Any CPU
-		{A8BDEB85-6502-4A83-A1E6-7453258BAA5E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{A8BDEB85-6502-4A83-A1E6-7453258BAA5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{A8BDEB85-6502-4A83-A1E6-7453258BAA5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{A8BDEB85-6502-4A83-A1E6-7453258BAA5E}.Release|Any CPU.Build.0 = Release|Any CPU
-		{37696EB3-5E71-4C9E-8D29-0E9911715A1A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{37696EB3-5E71-4C9E-8D29-0E9911715A1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{37696EB3-5E71-4C9E-8D29-0E9911715A1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{37696EB3-5E71-4C9E-8D29-0E9911715A1A}.Release|Any CPU.Build.0 = Release|Any CPU
-		{A7448A8F-D163-4C19-8D3E-4D326E44713C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{A7448A8F-D163-4C19-8D3E-4D326E44713C}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{A7448A8F-D163-4C19-8D3E-4D326E44713C}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{A7448A8F-D163-4C19-8D3E-4D326E44713C}.Release|Any CPU.Build.0 = Release|Any CPU
-		{BC5F639F-E8B1-4FDF-B97F-19E0EDABDE3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{BC5F639F-E8B1-4FDF-B97F-19E0EDABDE3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{BC5F639F-E8B1-4FDF-B97F-19E0EDABDE3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{BC5F639F-E8B1-4FDF-B97F-19E0EDABDE3C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{214E175B-ADFC-48FF-9FBB-AD9EF45F93FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{214E175B-ADFC-48FF-9FBB-AD9EF45F93FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{214E175B-ADFC-48FF-9FBB-AD9EF45F93FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{214E175B-ADFC-48FF-9FBB-AD9EF45F93FB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
